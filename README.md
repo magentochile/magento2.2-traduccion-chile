@@ -46,6 +46,7 @@ This pack of languages, only contains the skeleton for translations (Not transla
 
 ## Installation
 composer require magentochile/magento2.2-traduccion-chile dev-master
+
 php bin/magento cache:clean
 
 ## End
